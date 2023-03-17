@@ -1,6 +1,5 @@
 package task1;
-//Создайте три класса: Человек, Кот, Робот, которые наследуются от одного класса.
-// Эти классы должны уметь бегать и прыгать, все также с выводом информации о действии в консоль.
+
 public class General implements iFitness {
     public static void main(String[] args) {
         Cat cat = new Cat();
