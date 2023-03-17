@@ -27,7 +27,6 @@ public class main implements iFitness{
         Road road2 = new Road(1);
         Wall wall2 = new Wall(1);
         ArrayPartcipant arrayLystP = new ArrayPartcipant();
-        NEWRoad listArr = new NEWRoad();
         ArrayRoadWall roadList = new ArrayRoadWall();
         ArrayRoadWall wallList = new ArrayRoadWall();
 

@@ -50,13 +50,6 @@ public class ArrayRoadWall {
         return a;
     }
 
-    public Wall getWall() {
-        return wall;
-    }
-
-    public Road getRoad() {
-        return road;
-    }
 
     public int  roadArraymetod (int i){
 
